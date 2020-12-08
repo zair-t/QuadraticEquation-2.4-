@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuadraticEquation-2.4-</string>
+    <string name="title">Решить уравнение ax<sup>2</sup>+bx+c=0</string>
+    <string name="a">Введите A</string>
+    <string name="b">Введите B</string>
+    <string name="c">Введите C</string>
+    <string name="calculate">Вычислить</string>
+</resources>
